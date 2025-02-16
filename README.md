@@ -1,3 +1,4 @@
 # Hi, I'm Suhaib_Hn 👋  
 ## 🛡️ Cybersecurity Enthusiast | Ethical Hacking | Network Security | CTF Player  
 
+As a dedicated university student pursuing a degree in Computer Science, I am passionate about cybersecurity and the role it plays in protecting organizations from evolving threats. Alongside my academic studies, I am actively expanding my knowledge through online courses and hands-on learning in areas such as network security, ethical hacking, and threat analysis. With strong analytical skills, critical thinking, and adaptability, I am committed to applying my technical expertise to enhance security measures and mitigate risks. My goal is to contribute to the cybersecurity field by identifying vulnerabilities, implementing security solutions, and continuously improving my skills to stay ahead of emerging cyber threats.
